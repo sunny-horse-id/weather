@@ -37,6 +37,7 @@ dependencies {
     implementation(libs.litepal)
     implementation(libs.okhttp)
     implementation(libs.gson)
+    implementation(libs.glide)
     implementation(libs.activity)
     implementation(libs.constraintlayout)
 
